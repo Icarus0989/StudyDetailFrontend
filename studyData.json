@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "logoUrl": "",
+    "fundingSources": [],
+    "studentSupervision": [],
+    "publications": [
+      {
+        "id": 1,
+        "publication_title": "The cardiovascular effects of gonadotropin-releasing hormone antagonists in men with prostate cancer.",
+        "authors": "Cirne F, Aghel N, Petropoulos JA, Klotz L, Lenihan DJ, Saad F, Pinthus J, Leong DP.",
+        "published_date": 44686,
+        "journal": "Eur Heart J Cardiovasc Pharmacother. ",
+        "doi": "10.1093/ehjcvp/pvab005",
+        "study_id": 1,
+        "PMID": 33470403,
+        "link_url": "https://pubmed.ncbi.nlm.nih.gov/33470403/"
+      },
+      {
+        "id": 2,
+        "publication_title": "Risk of subsequent disabling or fatal stroke in patients with transient ischaemic attack or minor ischaemic stroke: an international, prospective cohort study.",
+        "authors": "Hobeanu C, Lavallée PC, Charles H, Labreuche J, Albers GW, Caplan LR, Donnan GA, Ferro JM, Hennerici MG, Molina CA, Rothwell PM, Steg PG, Touboul PJ, Uchiyama S, Vicaut E, Wong KSL, Amarenco P; TIAregistry.org Investigators.",
+        "published_date": 44821,
+        "journal": "Lancet Neurol. ",
+        "doi": "10.1016/S1474-4422(22)00302-7",
+        "study_id": 1,
+        "PMID": 36115361,
+        "link_url": "https://pubmed.ncbi.nlm.nih.gov/36115361/"
+      },
+      {
+        "id": 3,
+        "publication_title": "Yield of Dual Therapy With Statin and Ezetimibe in the Treat Stroke to Target Trial.",
+        "authors": "Amarenco P, Kim JS, Labreuche J, Charles H, Giroud M, Lee BC, Lavallée PC, Mahagne MH, Meseguer E, Nighoghossian N, Steg PG, Vicaut É, Bruckert E; Treat Stroke to Target Investigators.",
+        "published_date": 44830,
+        "journal": "Stroke. ",
+        "doi": "10.1161/STROKEAHA.122.039728",
+        "study_id": 1,
+        "PMID": 36154103,
+        "link_url": "https://pubmed.ncbi.nlm.nih.gov/36154103/"
+      },
+      {
+        "id": 4,
+        "publication_title": "Low-dose rivaroxaban and aspirin among patients with peripheral artery disease: a meta-analysis of the COMPASS and VOYAGER trials.",
+        "authors": "Anand SS, Hiatt W, Dyal L, Bauersachs R, Berkowitz SD, Branch KRH, Debus S, Fox KAA, Liang Y, Muehlhofer E, Nehler M, Haskell LP, Patel M, Szarek M, Yusuf S, Eikelboom J, Bonaca MP.",
+        "published_date": 44686,
+        "journal": "Eur J Prev Cardiol. ",
+        "doi": "10.1093/eurjpc/zwab128",
+        "study_id": 1,
+        "PMID": 34463737,
+        "link_url": "https://pubmed.ncbi.nlm.nih.gov/34463737/"
+      },
+      {
+        "id": 5,
+        "publication_title": "Evaluation of Adiposity and Cognitive Function in Adults.",
+        "authors": "Anand SS, Friedrich MG, Lee DS, Awadalla P, Després JP, Desai D, de Souza RJ, Dummer T, Parraga G, Larose E, Lear SA, Teo KK, Poirier P, Schulze KM, Szczesniak D, Tardif JC, Vena J, Zatonska K, Yusuf S, Smith EE; Canadian Alliance of Healthy Hearts and Minds (CAHHM) and the Prospective Urban and Rural Epidemiological (PURE) Study Investigators.",
+        "published_date": 44593,
+        "journal": "JAMA Netw Open. ",
+        "doi": "10.1001/jamanetworkopen.2021.46324",
+        "study_id": 1,
+        "PMID": 35103790,
+        "link_url": "https://pubmed.ncbi.nlm.nih.gov/35103790/"
+      }
+    ],
+    "startYear": 2003,
+    "endYear": 2005,
+    "principalInvestigators": [],
+    "otherInfo": ""
+  },
+  {
+    "id": "2",
+    "logoUrl": "",
+    "fundingSources": [],
+    "studentSupervision": [],
+    "publications": [],
+    "startYear": 2010,
+    "endYear": 2011,
+    "principalInvestigators": [],
+    "otherInfo": ""
+  }
+]
